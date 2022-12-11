@@ -729,7 +729,7 @@
       "path": "i18n/tours/ui-overview.json"
     }
   ],
-  "url": "https://github.com/phenomen/foundry-vtt-ru",
-  "manifest": "https://raw.githubusercontent.com/phenomen/foundry-vtt-ru/master/module.json",
-  "download": "https://github.com/phenomen/foundry-vtt-ru/archive/refs/heads/master.zip"
+  "url": "https://github.com/Artish357/foundry-vtt-ru",
+  "manifest": "https://raw.githubusercontent.com/Artish357/foundry-vtt-ru/master/module.json",
+  "download": "https://github.com/Artish357/foundry-vtt-ru/archive/refs/heads/master.zip"
 }
